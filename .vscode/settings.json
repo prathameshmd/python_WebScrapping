@@ -1,7 +1,0 @@
-{
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "git.scanRepositories": [
-        "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git"
-    ]
-}
